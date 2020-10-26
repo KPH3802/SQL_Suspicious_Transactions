@@ -1,2 +1,6 @@
 # Ignoring DS_Store
 .DS_Store
+
+
+# Ignoring Notebook Checkpoints
+*.ipynb_checkpoints/
